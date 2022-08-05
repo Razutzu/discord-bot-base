@@ -25,7 +25,7 @@ Acum, trebuie sa te duci in fisierul `index.js` din folder-ul `src` si sa inlocu
 
 Am facut un fisier numit `commands_handler.js`, care se afla in `src/handler`, care actualizeaza comenzile daca `client.update_commands` (linia 12) este `true`.
 
-Pentru a-ti pune comenzile, trebuie sa inlocuiesti `/* put your commands here */` (linia 7) cu comenzile tale, folosind de [SlashCommandBuilder](https://discordjs.guide/interactions/slash-commands.html#options).
+Pentru a-ti pune comenzile, trebuie sa inlocuiesti `/* put your commands here */` (linia 7) cu comenzile tale, folosind [SlashCommandBuilder](https://discordjs.guide/interactions/slash-commands.html#options).
 
 ## Alte informatii
 
