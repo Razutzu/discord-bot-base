@@ -4,7 +4,7 @@ const { Client, GatewayIntentBits } = require("discord.js");
 
 const client = new Client({
 	intents: [
-		/*put here your intents*/
+		/* put your intents here */
 	],
 });
 
